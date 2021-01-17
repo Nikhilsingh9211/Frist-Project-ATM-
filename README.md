@@ -1,2 +1,2 @@
 # Frist-Project-ATM
-used Java Language for this project
+I used Java Language for this project
